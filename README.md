@@ -12,7 +12,7 @@ All four pages are reactive depending on states.
 
 ## Acknowledgements
 
- - [Special thanks to Ko Nay(Trainer)](https://github.com/theonayoo)
+ - [Special thanks to my mentor, Ko Nay(mobile team leader)](https://github.com/theonayoo)
 
 
 
